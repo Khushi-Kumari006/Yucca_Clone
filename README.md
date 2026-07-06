@@ -219,11 +219,9 @@ Through this project, the following skills were strengthened:
 
 ---
 
-# 🎥 Live Demo
+#  Live Demo
 
-https://youtu.be/your-demo-video
-
-*(Replace with your actual YouTube or deployment link.)*
+https://youtu.be/UKf9msRrbes
 
 ---
 
